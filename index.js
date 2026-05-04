@@ -1,4 +1,4 @@
-const direction = {
+const directions = {
     N: "North",
     S: "South",
     E: "East",
